@@ -29,11 +29,10 @@ It allows you to connect to multiple remote Docker hosts, monitor containers, vi
 ### Prerequisites
 - Docker installed on your remote hosts
 - Go 1.20+  
-- Node.js 18+  
 - MySQL 8+
 
 ### Clone the repo
 ```bash
-git clone https://github.com/your-username/containerscope.git
+git clone https://github.com/Anmol012/containerscope.git
 cd containerscope
 
