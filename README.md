@@ -20,7 +20,7 @@ It allows you to connect to multiple remote Docker hosts, monitor containers, vi
 ## 🛠️ Tech Stack
 - **Backend:** Go (Golang) + Docker Remote API  
 - **Database:** MySQL  
-- **Frontend:** React + TailwindCSS + Chart.js + Leaflet/Mapbox  
+  
 
 ---
 
